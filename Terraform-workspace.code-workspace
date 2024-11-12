@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../aws/EC2"
+		},
+		{
+			"path": "../../aws/EC2_01"
+		},
+		{
+			"path": "../../aws/datasource"
+		},
+		{
+			"path": "../../aws/new-folder"
+		},
+		{
+			"path": "../../Bicep"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../../../../ACG"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../azureinfra"
+		},
+		{
+			"path": "../../TFVMS"
+		},
+		{
+			"path": "../../aws/datasource"
+		},
+		{
+			"path": "E:/azureinfra"
+		},
+		{
+			"path": "../../App-services"
+		},
+		{
+			"path": "../../aws/Yaml-learn"
+		},
+		{
+			"path": "../../aws/Linux_vm"
+		}
+	]
+}

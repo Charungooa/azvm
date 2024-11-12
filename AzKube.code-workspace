@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../AzKube"
+		},
+		{
+			"path": "../../Docker-terraform"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../aws/EC2"
+		}
+	],
+	"settings": {}
+}
